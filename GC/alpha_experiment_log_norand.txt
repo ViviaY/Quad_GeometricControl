@@ -1,0 +1,165 @@
+************* checking alpha *********** 
+cpu time: obtainning safe tube with RRT: 0.708, obtain Bezier curve from iterative linear programming: 1.875 
+[run 1] CPU RRT = 0.708s | CPU ILP = 1.875s | Travel = 8.63 | Ns=23 | Nv=1000 | eps=1.0e-06 | α=0.46 | α_s=0.90 | α_v=2.00
+cpu time: obtainning safe tube with RRT: 0.503, obtain Bezier curve from iterative linear programming: 0.120 
+[run 2] CPU RRT = 0.503s | CPU ILP = 0.120s | Travel = 6.06 | Ns=11 | Nv=1000 | eps=1.0e-06 | α=0.91 | α_s=0.90 | α_v=2.00
+cpu time: obtainning safe tube with RRT: 0.467, obtain Bezier curve from iterative linear programming: 0.115 
+[run 3] CPU RRT = 0.467s | CPU ILP = 0.115s | Travel = 6.22 | Ns=16 | Nv=1000 | eps=1.0e-06 | α=0.67 | α_s=0.90 | α_v=2.00
+cpu time: obtainning safe tube with RRT: 0.453, obtain Bezier curve from iterative linear programming: 0.097 
+[run 4] CPU RRT = 0.453s | CPU ILP = 0.097s | Travel = 6.10 | Ns=16 | Nv=1000 | eps=1.0e-06 | α=0.70 | α_s=0.90 | α_v=2.00
+cpu time: obtainning safe tube with RRT: 0.469, obtain Bezier curve from iterative linear programming: 0.225 
+[run 5] CPU RRT = 0.469s | CPU ILP = 0.225s | Travel = 7.55 | Ns=17 | Nv=1000 | eps=1.0e-06 | α=0.51 | α_s=0.90 | α_v=2.00
+cpu time: obtainning safe tube with RRT: 0.451, obtain Bezier curve from iterative linear programming: 0.088 
+[run 6] CPU RRT = 0.451s | CPU ILP = 0.088s | Travel = 6.74 | Ns=14 | Nv=1000 | eps=1.0e-06 | α=0.94 | α_s=0.90 | α_v=2.00
+cpu time: obtainning safe tube with RRT: 0.451, obtain Bezier curve from iterative linear programming: 0.094 
+[run 7] CPU RRT = 0.451s | CPU ILP = 0.094s | Travel = 5.94 | Ns=14 | Nv=1000 | eps=1.0e-06 | α=0.61 | α_s=0.90 | α_v=2.00
+cpu time: obtainning safe tube with RRT: 0.451, obtain Bezier curve from iterative linear programming: 0.099 
+[run 8] CPU RRT = 0.451s | CPU ILP = 0.099s | Travel = 6.46 | Ns=14 | Nv=1000 | eps=1.0e-06 | α=0.82 | α_s=0.90 | α_v=2.00
+cpu time: obtainning safe tube with RRT: 0.460, obtain Bezier curve from iterative linear programming: 0.184 
+[run 9] CPU RRT = 0.460s | CPU ILP = 0.184s | Travel = 7.52 | Ns=20 | Nv=1000 | eps=1.0e-06 | α=0.40 | α_s=0.90 | α_v=2.00
+cpu time: obtainning safe tube with RRT: 0.457, obtain Bezier curve from iterative linear programming: 0.089 
+[run 10] CPU RRT = 0.457s | CPU ILP = 0.089s | Travel = 7.88 | Ns=16 | Nv=1000 | eps=1.0e-06 | α=0.88 | α_s=0.90 | α_v=2.00
+cpu time: obtainning safe tube with RRT: 0.451, obtain Bezier curve from iterative linear programming: 0.083 
+[run 11] CPU RRT = 0.451s | CPU ILP = 0.083s | Travel = 6.43 | Ns=15 | Nv=1000 | eps=1.0e-06 | α=0.64 | α_s=0.90 | α_v=2.00
+cpu time: obtainning safe tube with RRT: 0.451, obtain Bezier curve from iterative linear programming: 0.052 
+[run 12] CPU RRT = 0.451s | CPU ILP = 0.052s | Travel = 5.63 | Ns=12 | Nv=1000 | eps=1.0e-06 | α=0.76 | α_s=0.90 | α_v=2.00
+cpu time: obtainning safe tube with RRT: 0.453, obtain Bezier curve from iterative linear programming: 0.130 
+[run 13] CPU RRT = 0.453s | CPU ILP = 0.130s | Travel = 7.39 | Ns=17 | Nv=1000 | eps=1.0e-06 | α=0.52 | α_s=0.90 | α_v=2.00
+cpu time: obtainning safe tube with RRT: 0.455, obtain Bezier curve from iterative linear programming: 0.044 
+[run 14] CPU RRT = 0.455s | CPU ILP = 0.044s | Travel = 6.25 | Ns=11 | Nv=1000 | eps=1.0e-06 | α=1.00 | α_s=0.90 | α_v=2.00
+cpu time: obtainning safe tube with RRT: 0.456, obtain Bezier curve from iterative linear programming: 0.089 
+[run 15] CPU RRT = 0.456s | CPU ILP = 0.089s | Travel = 8.38 | Ns=16 | Nv=1000 | eps=1.0e-06 | α=0.58 | α_s=0.90 | α_v=2.00
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ObtainingBoundsTimeVarying>@(x)norm([eye(3,3),zeros(3,3)]*inv(sqrtm(M1t)))*sqrt_V_Uniform_Bound_t+0*x')" style="font-weight:bold">ObtainingBoundsTimeVarying>@(x)norm([eye(3,3),zeros(3,3)]*inv(sqrtm(M1t)))*sqrt_V_Uniform_Bound_t+0*x</a>
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ObtainingBoundsTimeVarying>fg_mfile', '/Users/yating/Nutstore Files/code/quadrotor-safe-synthesis/quadrotor-safe-synthesis_subimit/GC/TrajectoryGeneration_TimeVarying/ObtainingBoundsTimeVarying.m', 180)" style="font-weight:bold">ObtainingBoundsTimeVarying>fg_mfile</a> (<a href="matlab: opentoline('/Users/yating/Nutstore Files/code/quadrotor-safe-synthesis/quadrotor-safe-synthesis_subimit/GC/TrajectoryGeneration_TimeVarying/ObtainingBoundsTimeVarying.m',180,0)">line 180</a>)
+    gval=L_p_2(x);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ObtainingBoundsTimeVarying>@(x)fg_mfile(x,L_p_1,L_p_2,tbt)', '/Users/yating/Nutstore Files/code/quadrotor-safe-synthesis/quadrotor-safe-synthesis_subimit/GC/TrajectoryGeneration_TimeVarying/ObtainingBoundsTimeVarying.m', 105)" style="font-weight:bold">ObtainingBoundsTimeVarying>@(x)fg_mfile(x,L_p_1,L_p_2,tbt)</a> (<a href="matlab: opentoline('/Users/yating/Nutstore Files/code/quadrotor-safe-synthesis/quadrotor-safe-synthesis_subimit/GC/TrajectoryGeneration_TimeVarying/ObtainingBoundsTimeVarying.m',105,0)">line 105</a>)
+L_p = @(x) fg_mfile(x,L_p_1,L_p_2,tbt);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Trajectory_Synthesis_TimeVarying_checking', '/Users/yating/Nutstore Files/code/quadrotor-safe-synthesis/quadrotor-safe-synthesis_subimit/GC/TrajectoryGeneration_TimeVarying/Trajectory_Synthesis_TimeVarying_checking.m', 188)" style="font-weight:bold">Trajectory_Synthesis_TimeVarying_checking</a> (<a href="matlab: opentoline('/Users/yating/Nutstore Files/code/quadrotor-safe-synthesis/quadrotor-safe-synthesis_subimit/GC/TrajectoryGeneration_TimeVarying/Trajectory_Synthesis_TimeVarying_checking.m',188,0)">line 188</a>)
+ Margin_Tree(:,ind)=[L_p(Time_Tree(ind));L_p(Time_Tree(ind));L_p(Time_Tree(ind))];
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cpu_check', '/Users/yating/Nutstore Files/code/quadrotor-safe-synthesis/quadrotor-safe-synthesis_subimit/GC/cpu_check.m', 84)" style="font-weight:bold">cpu_check</a> (<a href="matlab: opentoline('/Users/yating/Nutstore Files/code/quadrotor-safe-synthesis/quadrotor-safe-synthesis_subimit/GC/cpu_check.m',84,0)">line 84</a>)
+    generatedTraj = Trajectory_Synthesis_TimeVarying_checking(param, anneal_options, Bounds, userparam);
+} 
+main_GC
+Finding optimal control gains now.
+Optimization terminated: change in best function value less than options.FunctionTolerance.
+Optimization terminated: change in best function value less than options.FunctionTolerance.
+Optimization terminated: change in best function value less than options.FunctionTolerance.
+Optimization terminated: change in best function value less than options.FunctionTolerance.
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('position_bound')" style="font-weight:bold">position_bound</a>
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('annealing>@(x)position_bound(x,anneal_options,param)', '/Users/yating/Nutstore Files/code/quadrotor-safe-synthesis/quadrotor-safe-synthesis_subimit/GC/gain_tuning/annealing.m', 16)" style="font-weight:bold">annealing>@(x)position_bound(x,anneal_options,param)</a> (<a href="matlab: opentoline('/Users/yating/Nutstore Files/code/quadrotor-safe-synthesis/quadrotor-safe-synthesis_subimit/GC/gain_tuning/annealing.m',16,0)">line 16</a>)
+f = @(x)position_bound(x, anneal_options, param);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('globaloptim.simulannealbnd.sanewpoint', '/Applications/MATLAB_R2023a.app/toolbox/globaloptim/+globaloptim/+simulannealbnd/sanewpoint.m', 24)" style="font-weight:bold">globaloptim.simulannealbnd.sanewpoint</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2023a.app/toolbox/globaloptim/+globaloptim/+simulannealbnd/sanewpoint.m',24,0)">line 24</a>)
+newfval = problem.objective(newx);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('globaloptim.simulannealbnd.saengine', '/Applications/MATLAB_R2023a.app/toolbox/globaloptim/+globaloptim/+simulannealbnd/saengine.m', 29)" style="font-weight:bold">globaloptim.simulannealbnd.saengine</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2023a.app/toolbox/globaloptim/+globaloptim/+simulannealbnd/saengine.m',29,0)">line 29</a>)
+    solverData = globaloptim.simulannealbnd.sanewpoint(solverData,problem,options);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('globaloptim.simulannealbnd.driver', '/Applications/MATLAB_R2023a.app/toolbox/globaloptim/+globaloptim/+simulannealbnd/driver.m', 28)" style="font-weight:bold">globaloptim.simulannealbnd.driver</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2023a.app/toolbox/globaloptim/+globaloptim/+simulannealbnd/driver.m',28,0)">line 28</a>)
+solverData = globaloptim.simulannealbnd.saengine(solverData,problem,options);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('simulannealbnd', '/Applications/MATLAB_R2023a.app/toolbox/globaloptim/globaloptim/simulannealbnd.m', 197)" style="font-weight:bold">simulannealbnd</a> (<a href="matlab: opentoline('/Applications/MATLAB_R2023a.app/toolbox/globaloptim/globaloptim/simulannealbnd.m',197,0)">line 197</a>)
+    globaloptim.simulannealbnd.driver(FUN, x0, [], [], [], [], lb, ub, options, defaultopt);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('annealing', '/Users/yating/Nutstore Files/code/quadrotor-safe-synthesis/quadrotor-safe-synthesis_subimit/GC/gain_tuning/annealing.m', 21)" style="font-weight:bold">annealing</a> (<a href="matlab: opentoline('/Users/yating/Nutstore Files/code/quadrotor-safe-synthesis/quadrotor-safe-synthesis_subimit/GC/gain_tuning/annealing.m',21,0)">line 21</a>)
+    [x, fval, ~, ~] = simulannealbnd(f, initial_solution, lower_bound, upper_bound, options);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('main_GC', '/Users/yating/Nutstore Files/code/quadrotor-safe-synthesis/quadrotor-safe-synthesis_subimit/GC/main_GC.m', 59)" style="font-weight:bold">main_GC</a> (<a href="matlab: opentoline('/Users/yating/Nutstore Files/code/quadrotor-safe-synthesis/quadrotor-safe-synthesis_subimit/GC/main_GC.m',59,0)">line 59</a>)
+annealing_output = annealing(anneal_options, param);
+} 
+fast_main
+         opt_k: [18.3154 6.4322 22.3572 1.4732 0.5651 0.5930]
+    opt_bounds: [1×1 struct]
+
+Obtaining the time varying bounds now.
+Generating the reference trajectory.
+total travel time of the desired trajectory: 19.84
+Tracking Trajectories: 1/100, runtime = 0.6523 s, total elapsed time = 0.6523 s.
+Errors Trajectories: 1/100, runtime = 0.2416 s. 
+Tracking Trajectories: 2/100, runtime = 0.4126 s, total elapsed time = 1.0649 s.
+Errors Trajectories: 2/100, runtime = 0.2190 s. 
+Tracking Trajectories: 3/100, runtime = 0.3618 s, total elapsed time = 1.4267 s.
+Errors Trajectories: 3/100, runtime = 0.2104 s. 
+Tracking Trajectories: 4/100, runtime = 0.3611 s, total elapsed time = 1.7878 s.
+Errors Trajectories: 4/100, runtime = 0.2158 s. 
+Tracking Trajectories: 5/100, runtime = 0.3829 s, total elapsed time = 2.1707 s.
+Errors Trajectories: 5/100, runtime = 0.2242 s. 
+Tracking Trajectories: 6/100, runtime = 0.3518 s, total elapsed time = 2.5225 s.
+Errors Trajectories: 6/100, runtime = 0.2203 s. 
+Tracking Trajectories: 7/100, runtime = 0.3443 s, total elapsed time = 2.8668 s.
+Errors Trajectories: 7/100, runtime = 0.2495 s. 
+Tracking Trajectories: 8/100, runtime = 0.3387 s, total elapsed time = 3.2055 s.
+Errors Trajectories: 8/100, runtime = 0.2056 s. 
+Tracking Trajectories: 9/100, runtime = 0.3617 s, total elapsed time = 3.5672 s.
+Errors Trajectories: 9/100, runtime = 0.2055 s. 
+Tracking Trajectories: 10/100, runtime = 0.3356 s, total elapsed time = 3.9028 s.
+Errors Trajectories: 10/100, runtime = 0.2051 s. 
+Tracking Trajectories: 11/100, runtime = 0.3608 s, total elapsed time = 4.2636 s.
+Errors Trajectories: 11/100, runtime = 0.2257 s. 
+Tracking Trajectories: 12/100, runtime = 0.3510 s, total elapsed time = 4.6145 s.
+Errors Trajectories: 12/100, runtime = 0.2523 s. 
+Tracking Trajectories: 13/100, runtime = 0.3463 s, total elapsed time = 4.9609 s.
+Errors Trajectories: 13/100, runtime = 0.2125 s. 
+Tracking Trajectories: 14/100, runtime = 0.3461 s, total elapsed time = 5.3070 s.
+Errors Trajectories: 14/100, runtime = 0.2077 s. 
+Tracking Trajectories: 15/100, runtime = 0.3590 s, total elapsed time = 5.6660 s.
+Errors Trajectories: 15/100, runtime = 0.2604 s. 
+Tracking Trajectories: 16/100, runtime = 0.3766 s, total elapsed time = 6.0426 s.
+Errors Trajectories: 16/100, runtime = 0.2322 s. 
+Tracking Trajectories: 17/100, runtime = 0.3469 s, total elapsed time = 6.3895 s.
+Errors Trajectories: 17/100, runtime = 0.2160 s. 
+Tracking Trajectories: 18/100, runtime = 0.3710 s, total elapsed time = 6.7604 s.
+Errors Trajectories: 18/100, runtime = 0.2367 s. 
+Tracking Trajectories: 19/100, runtime = 0.3405 s, total elapsed time = 7.1010 s.
+Errors Trajectories: 19/100, runtime = 0.2048 s. 
+Tracking Trajectories: 20/100, runtime = 0.3411 s, total elapsed time = 7.4421 s.
+Errors Trajectories: 20/100, runtime = 0.2218 s. 
+Tracking Trajectories: 21/100, runtime = 0.3385 s, total elapsed time = 7.7806 s.
+Errors Trajectories: 21/100, runtime = 0.2162 s. 
+Tracking Trajectories: 22/100, runtime = 0.3425 s, total elapsed time = 8.1231 s.
+Errors Trajectories: 22/100, runtime = 0.2086 s. 
+Tracking Trajectories: 23/100, runtime = 0.3467 s, total elapsed time = 8.4698 s.
+Errors Trajectories: 23/100, runtime = 0.2091 s. 
+Tracking Trajectories: 24/100, runtime = 0.3413 s, total elapsed time = 8.8111 s.
+Errors Trajectories: 24/100, runtime = 0.2030 s. 
+Tracking Trajectories: 25/100, runtime = 0.3412 s, total elapsed time = 9.1523 s.
+Errors Trajectories: 25/100, runtime = 0.2034 s. 
+Tracking Trajectories: 26/100, runtime = 0.3486 s, total elapsed time = 9.5009 s.
+Errors Trajectories: 26/100, runtime = 0.2219 s. 
+Tracking Trajectories: 27/100, runtime = 0.3374 s, total elapsed time = 9.8382 s.
+Errors Trajectories: 27/100, runtime = 0.2063 s. 
+Tracking Trajectories: 28/100, runtime = 0.3542 s, total elapsed time = 10.1924 s.
+Errors Trajectories: 28/100, runtime = 0.2329 s. 
+Tracking Trajectories: 29/100, runtime = 0.3558 s, total elapsed time = 10.5482 s.
+Errors Trajectories: 29/100, runtime = 0.2238 s. 
+Tracking Trajectories: 30/100, runtime = 0.3434 s, total elapsed time = 10.8916 s.
+Errors Trajectories: 30/100, runtime = 0.2160 s. 
+Tracking Trajectories: 31/100, runtime = 0.3524 s, total elapsed time = 11.2440 s.
+Errors Trajectories: 31/100, runtime = 0.2129 s. 
+Tracking Trajectories: 32/100, runtime = 0.3582 s, total elapsed time = 11.6022 s.
+Errors Trajectories: 32/100, runtime = 0.2135 s. 
+Tracking Trajectories: 33/100, runtime = 0.3438 s, total elapsed time = 11.9461 s.
+Errors Trajectories: 33/100, runtime = 0.2479 s. 
+Tracking Trajectories: 34/100, runtime = 0.3386 s, total elapsed time = 12.2846 s.
+Errors Trajectories: 34/100, runtime = 0.2138 s. 
+Tracking Trajectories: 35/100, runtime = 0.3363 s, total elapsed time = 12.6209 s.
+Errors Trajectories: 35/100, runtime = 0.2224 s. 
+Tracking Trajectories: 36/100, runtime = 0.3487 s, total elapsed time = 12.9696 s.
+Errors Trajectories: 36/100, runtime = 0.2384 s. 
+Tracking Trajectories: 37/100, runtime = 0.3474 s, total elapsed time = 13.3170 s.
+Errors Trajectories: 37/100, runtime = 0.2495 s. 
+Tracking Trajectories: 38/100, runtime = 0.3661 s, total elapsed time = 13.6831 s.
+Errors Trajectories: 38/100, runtime = 0.2156 s. 
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ode45')" style="font-weight:bold">ode45</a>
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fast_main', '/Users/yating/Nutstore Files/code/quadrotor-safe-synthesis/quadrotor-safe-synthesis_subimit/GC/fast_main.m', 117)" style="font-weight:bold">fast_main</a> (<a href="matlab: opentoline('/Users/yating/Nutstore Files/code/quadrotor-safe-synthesis/quadrotor-safe-synthesis_subimit/GC/fast_main.m',117,0)">line 117</a>)
+    [~, X_sol] = ode45(@(t, XR) eom(t, XR, annealing_output, param, generatedTraj.Points_Array, generatedTraj.tau), t_span, X0, odeset('RelTol', 1e-6, 'AbsTol', 1e-6));
+} 
