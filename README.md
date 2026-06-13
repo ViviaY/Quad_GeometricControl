@@ -30,5 +30,7 @@ Note that all results reported in the paper are saved as .mat files in the contr
 
 
 [1] V. Freire and X. Xu, “Flatness-based quadcopter trajectory planning and tracking with continuous-time safety guarantees,” IEEE Transactions on Control Systems Technology, vol. 31, no. 6, pp. 2319–2334, 2023.
+
 [2] M. Elhesasy, T. N. Dief, M. Atallah, M. Okasha, M. M. Kamra, S. Yoshida, and M. A. Rushdi, "Non-linear model predictive control using casadi package for trajectory tracking of quadrotor," Energies, vol. 16, no. 5, p. 2143, 2023.
+
 [3] J. C. Pereira, V. J. Leite, and G. V. Raffo, "Nonlinear model predictive control on SE(3) for quadrotor aggressive maneuvers," Journal of Intelligent \& Robotic Systems, vol. 101, no. 3, p. 62, 2021.
