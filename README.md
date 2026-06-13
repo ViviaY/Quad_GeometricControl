@@ -11,6 +11,7 @@ Dependencies:
 
 
 This project consists of three main contollers:
+    
     1. The proposed controller Geometric control:
         main_GC.m: regenerating all models and control gains with different parameter settings;
         fast_main.m: using the paper's parameters and models to reproduce the results.
